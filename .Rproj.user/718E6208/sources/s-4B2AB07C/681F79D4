@@ -3,22 +3,22 @@
     "path": "~/BCfall2020/5001/rblog/psych_5001_blog/_posts/welcome/welcome.Rmd",
     "project_path": "_posts/welcome/welcome.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1184335879",
     "contents": "",
     "dirty": false,
     "created": 1598729473463.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "12,27",
+        "cursorPosition": "23,19",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1598729458,
+    "lastKnownWriteTime": 1598730034,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1598729458,
+    "last_content_update": 1598730034580,
     "read_only": false,
     "read_only_alternatives": []
 }
