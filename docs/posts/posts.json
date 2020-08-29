@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/8_29_20_second/",
+    "title": "Second Post",
+    "description": "This is the second post",
+    "author": [
+      {
+        "name": "Austin Kaplan",
+        "url": "https://aus-kap.github.io/psych_5001_blog/"
+      }
+    ],
+    "date": "2020-08-29",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-29T17:07:01-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "First Post",
     "description": "This is the first post",
