@@ -3,13 +3,16 @@
     "path": "~/BCfall2020/5001/rblog/psych_5001_blog/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "2209307304",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1598729474418.0,
     "source_on_save": false,
     "relative_order": 2,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "3,14",
+        "scrollLine": "0"
+    },
     "folds": "",
     "lastKnownWriteTime": 1598729458,
     "encoding": "UTF-8",
