@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/9_14_20_fourth/",
+    "title": "Contingency Judgements on the fly Article",
+    "description": "Article by Crump et al.",
+    "author": [
+      {
+        "name": "Austin Kaplan",
+        "url": "https://aus-kap.github.io/psych_5001_blog/"
+      }
+    ],
+    "date": "2020-09-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-15T10:01:48-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/9_8_20_third/",
     "title": "Human Contingency Judgements: Rule Based or Associative? Article",
     "description": "Article by Lorraine G. Allan",

@@ -1,24 +1,24 @@
 {
-    "id": "3E885D63",
+    "id": "827CADCB",
     "path": "~/BCfall2020/5001/rblog/psych_5001_blog/_posts/9_8_20_third/third.Rmd",
     "project_path": "_posts/9_8_20_third/third.Rmd",
     "type": "r_markdown",
     "hash": "1918405492",
     "contents": "",
     "dirty": false,
-    "created": 1599565496694.0,
+    "created": 1600143397343.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 1,
     "properties": {
-        "cursorPosition": "24,1599",
-        "scrollLine": "18"
+        "cursorPosition": "24,2331",
+        "scrollLine": "25"
     },
     "folds": "",
     "lastKnownWriteTime": 1599567469,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1599567469447,
+    "last_content_update": 1599567469,
     "read_only": false,
     "read_only_alternatives": []
 }

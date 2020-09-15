@@ -1,0 +1,30 @@
+---
+title: "Contingency Judgements on the fly Article"
+description: |
+  Article by Crump et al.
+author:
+  - name: Austin Kaplan 
+    url: https://aus-kap.github.io/psych_5001_blog/
+    affiliation: Brooklyn College
+    affiliation_url: https://brooklyn.cuny.edu
+date: 09-14-2020
+bibliography: crump_2007.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+The abstract of the article states that this study was conducted in order to showcase a new was of measuring contingency judgments. Specifically, the procedure used was designed to be less time-consuming than previously used methods of testing. This study reproduces two previous findings that were done using more time-consuming procedures. [@crump_contingency_2007]
+The first paragraph states that a human's ability to detect contingencies between events can help bring about learning, categorization, concept formation, and other cognitive processes. [@crump_contingency_2007]
+The next section presents an overview of contingency judgment tasks, explaining that they generally include rating the strength of the relationship between binary variables, over several trials, where four possible outcome pairings can be presented. [@crump_contingency_2007]
+The discrete-trials procedure is the most common form of the contingency judgment task, where each trial features one presentation of a cue (either presented or not presented), followed by an outcome (either occurring or not occurring). Discrete trial procedures can have participants solely observe cue-outcome events, or participants can be asked to respond to events. Participants also often make predictions about a particular outcome's probability of occurrence. Participants are also asked to judge the strength of a cue on the outcome after a block of trials. [@crump_contingency_2007]
+Another contingency judgment task is called the free-operant procedure, where cue-outcome events are not shown in a predefined trial-by-trial format. Participants instead can respond at any time within the experimental interval, and the outcome presented is determined by sampling a moving temporal window of time in which the response was made. [@crump_contingency_2007]
+Lastly, contingency judgment tasks can also be presented to participants in summary form. [@crump_contingency_2007] 
