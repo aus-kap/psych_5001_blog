@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/9_21_20_fifth/",
+    "title": "Schema Abstraction in a Multiple-Trace Memory Model Article",
+    "description": "Article by Douglas L. Hintzman.",
+    "author": [
+      {
+        "name": "Austin Kaplan",
+        "url": "https://aus-kap.github.io/psych_5001_blog/"
+      }
+    ],
+    "date": "2020-09-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-22T12:04:50-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/9_14_20_fourth/",
     "title": "Contingency Judgements on the fly Article",
     "description": "Article by Crump et al.",

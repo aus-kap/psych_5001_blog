@@ -1,0 +1,25 @@
+---
+title: "Schema Abstraction in a Multiple-Trace Memory Model Article"
+description: |
+  Article by Douglas L. Hintzman.
+author:
+  - name: Austin Kaplan 
+    url: https://aus-kap.github.io/psych_5001_blog/
+    affiliation: Brooklyn College
+    affiliation_url: https://brooklyn.cuny.edu
+date: 09-21-2020
+bibliography: hintzman_1986.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+This article details a study in which the researchers sought to explore the possibility that there is only one memory system, in which episodic traces are stored but abstract knowledge does not have to be stored, rather, it can be derived from a pool of traces.[@hintzman_schema_nodate] The researchers test this through the use of a simulation model called Minerva 2. Specifically, Minerva 2 is a simulation model of episodic memory that assumes each experience produces a separate memory trace. It also assumes that knowledge of abstract concepts, while being retrieved, is derived from a pool of episodic traces.[@hintzman_schema_nodate] The article mentions key terms such as primary memory (PM), and secondary memory (PM). PM is defined as the active representation of current experience. SM is defined as the vast pool of largely dormant memory traces. [@hintzman_schema_nodate]These two aspects of memory can communicate with each other in two potential ways. A probe can be sent from PM to SM in order to retrieve information, or PM can receive one reply or "echo" from SM, which would contain the sought after information.[@hintzman_schema_nodate]
